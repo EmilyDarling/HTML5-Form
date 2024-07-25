@@ -1,0 +1,7 @@
+.card-body{
+    width: 1000px;
+    margin: 0 calc(50% - 500px);
+}
+.radio-holder{
+    width: 70%;
+}
